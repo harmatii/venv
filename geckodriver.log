@@ -49,3 +49,80 @@ console.error:
 
 [Child 55086] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 55086] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486519719044	geckodriver	INFO	Listening on 127.0.0.1:50311
+1486519719893	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.HoY46jakiaRv
+1486519719913	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486519720089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50320
+1486519725743	Marionette	INFO	Listening on port 50320
+[Child 57730] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 57730] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1486520302441	geckodriver	INFO	Listening on 127.0.0.1:50662
+1486520303437	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.dREwnrCtXQDT
+1486520303439	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486520303479	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50673
+1486520306623	Marionette	INFO	Listening on port 50673
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 58567] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58567] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489286173330	geckodriver	INFO	Listening on 127.0.0.1:58196
+1489286174281	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.cmPvLuiguxFR
+1489286174283	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489286174342	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58205
+1489286175650	Marionette	INFO	Listening on port 58205
+1489286179714	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 21669] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21669] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489286274947	geckodriver	INFO	Listening on 127.0.0.1:58270
+1489286274969	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.AdE8VeuHgVBi
+1489286274971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489286274974	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58277
+1489286276181	Marionette	INFO	Listening on port 58277
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21824] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21824] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489286366245	geckodriver	INFO	Listening on 127.0.0.1:58333
+1489286366260	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.pGE0tgitxZXm
+1489286366262	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489286366266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58340
+1489286367594	Marionette	INFO	Listening on port 58340
+[Child 21980] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21980] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489535910060	geckodriver	INFO	Listening on 127.0.0.1:59178
+1489535911023	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.834Vj2kFPwOX
+1489535911024	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489535911082	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59187
+1489535914425	Marionette	INFO	Listening on port 59187
+[Child 61373] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 61373] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489535953009	geckodriver	INFO	Listening on 127.0.0.1:59284
+1489535953016	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.M36wPvPa14D9
+1489535953017	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1489535953020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59291
+1489535954306	Marionette	INFO	Listening on port 59291
+[Child 61428] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 61428] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489543131019	geckodriver	INFO	Listening on 127.0.0.1:50714
+1489543131954	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.TOqAf7UPPBKW
+1489543131956	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489543131999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50720
+1489543133297	Marionette	INFO	Listening on port 50720
+[Child 3806] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3806] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1489854300910	geckodriver	INFO	Listening on 127.0.0.1:55526
+1489854302470	mozprofile::profile	INFO	Using profile path /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.Plh6WA90FhiR
+1489854302473	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1489854302595	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55535
+1489854310495	Marionette	INFO	Listening on port 55535
+1489854312032	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-18 11:25:16.625 plugin-container[29619:2559805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5447, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-18 11:25:16.630 plugin-container[29619:2559805] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-18 11:25:16.630 plugin-container[29619:2559805] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1489854323807	Marionette	INFO	New connections will no longer be accepted
+console.error: 
+  Could not write session state file 
+  Message: Unix error 2 during operation open on file /var/folders/j8/nlv5gb992kl7hlgj7lgmnmrr0000gn/T/rust_mozprofile.Plh6WA90FhiR/sessionstore.js.tmp (No such file or directory)
+  
