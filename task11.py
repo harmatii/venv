@@ -1,7 +1,5 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support.color import Color
 
 
 @pytest.fixture
@@ -30,5 +28,5 @@ def testnewUser(driver):
     logout = driver.find_element_by_xpath("//a[.='Logout']").click()
     logn = driver.find_element_by_css_selector("[name=email]").send_keys("igorko112@gmail.com")
     passin = driver.find_element_by_css_selector("[name=password]").send_keys("12345678")
-    driver.find_element_by_xpath("//button[.='Login']").click()
+    login = driver.find_element_by_xpath("//button[.='Login']").click()
     logut = driver.find_element_by_xpath("//a[.='Logout']").click()
