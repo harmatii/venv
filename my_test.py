@@ -23,17 +23,11 @@ def is_element_present(driver, how, what):
         return False
     return True
 
-def test_login(driver):
-    driver.get("http://hrm.seleniumminutes.com/")
-    username=driver.find_element_by_css_selector("#txtUsername")
-    username.clear()
-    username.send_keys("Admin")
-    password=driver.find_element_by_css_selector("#txtPassword")
-    password.clear()
-    password.send_keys("Password")
-    login=driver.find_element_by_css_selector("#btnLogin")
-    login.click()
-    assert is_element_present(driver, By.CSS_SELECTOR, "#welcome")
+def test_sort(driver):
+    driver.get("http://360rideshop.com/man-burton.html")
+    list = driver.find_elements_by_css_selector("[itemprop='headline']")
+    el = [e.text for e in list]
+    assert all('Burton' in x for x in el)
 
 
 

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00e8cbd2-9d9b-4b66-9cb2-fd6e202e7359" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task11.py" afterPath="$PROJECT_DIR$/task11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my_test.py" afterPath="$PROJECT_DIR$/my_test.py" />
     </list>
     <ignored path="venv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,24 +23,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task12.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/task12.py">
+      <file leaf-file-name="task13.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task13.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="199">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="66" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -76,21 +66,22 @@
         <option value="$PROJECT_DIR$/env/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py" />
         <option value="$PROJECT_DIR$/task7.py" />
         <option value="$PROJECT_DIR$/task8.py" />
-        <option value="$PROJECT_DIR$/my_test.py" />
         <option value="$PROJECT_DIR$/task9_2.py" />
-        <option value="$PROJECT_DIR$/task9.py" />
         <option value="$PROJECT_DIR$/task10.py" />
         <option value="$PROJECT_DIR$/hrm.py" />
         <option value="$PROJECT_DIR$/task11.py" />
         <option value="$PROJECT_DIR$/111.py" />
         <option value="$PROJECT_DIR$/task12.py" />
+        <option value="$PROJECT_DIR$/my_test.py" />
+        <option value="$PROJECT_DIR$/task9.py" />
+        <option value="$PROJECT_DIR$/task13.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="712" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -110,7 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,7 +116,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -140,31 +131,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in task12.py">
-    <configuration default="false" name="py.test in task9.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="venv" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/task9.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in task13.py">
     <configuration default="false" name="py.test in task9_2.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,6 +222,30 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/task12.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in task13.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="venv" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/task13.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
@@ -446,19 +437,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python tests.pytest in task8" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.my_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in task9.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in task9_2.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in task10.py" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in task11.py" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in task12.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in task9_2.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in task10.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in task11.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in task12.py" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in task13.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in task12.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in task11.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in task10.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in task9_2.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in task9.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in task13.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in task12.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in task11.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in task10.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in task9_2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -476,39 +467,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 13h 57m 51s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.11 at 14h 54m 42s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 13h 59m 55s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.11 at 14h 55m 03s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 14h 10m 58s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 00h 30m 55s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 14h 12m 30s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 00h 39m 06s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 14h 13m 07s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 00h 40m 34s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 14h 48m 39s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 00h 41m 23s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 14h 50m 22s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 09h 58m 27s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 15h 04m 00s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 09h 58m 59s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 15h 18m 36s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 10h 01m 41s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_task12_py - 2017.04.05 at 15h 22m 21s.xml">
-      <configuration name="py.test in task12.py" configurationId="tests" />
+    <history-entry file="py_test_in_task13_py - 2017.04.12 at 10h 02m 01s.xml">
+      <configuration name="py.test in task13.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -516,7 +507,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31726283" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3171875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -559,24 +550,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hrm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#85#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -588,9 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="e#24#85#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="49" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="40" lean-forward="false" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,19 +651,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
           <caret line="188" column="36" lean-forward="true" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog.py" />
-    <entry file="file://$PROJECT_DIR$/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="64" lean-forward="false" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/task.py" />
     <entry file="file://$PROJECT_DIR$/env/lib/python3.5/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -720,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="2925" column="8" lean-forward="false" selection-start-line="2925" selection-start-column="8" selection-end-line="2925" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,106 +683,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task8.py">
+    <entry file="file://$PROJECT_DIR$/111.py" />
+    <entry file="file://$PROJECT_DIR$/is_present.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task9_2.py">
+    <entry file="file://$USER_HOME$/Library/Python/3.5/lib/python/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="249">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="48" column="88" lean-forward="true" selection-start-line="48" selection-start-column="88" selection-end-line="48" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task11.py">
+    <entry file="file://$PROJECT_DIR$/task10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="47" />
+        <state relative-caret-position="-345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="70" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task9.py">
+    <entry file="file://$PROJECT_DIR$/task8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="24" column="68" lean-forward="false" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="68" />
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="20" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+        <state relative-caret-position="-2306">
+          <caret line="23" column="55" lean-forward="true" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/is_present.py">
+    <entry file="file://$PROJECT_DIR$/task11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#61#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="66" />
+          <caret line="14" column="46" lean-forward="false" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task12.py">
+    <entry file="file://$PROJECT_DIR$/task9_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state relative-caret-position="379">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
